@@ -5,5 +5,4 @@ The Following Programming Languages Were Used To Build and Design The Calculator
      2. CSS
      3. BOOTSTRAP
      4. REACT
-     
-And also used NODE.JS
+     5. Also used NODE.JS
